@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vkalyanram
 - 👀 I’m interested in ...Php,Python
-- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Python
 - 📫 How to reach me ...kalyan.2405@gmail.com
 
